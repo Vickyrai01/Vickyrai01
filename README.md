@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vickyrai01
 - 👀 I’m interested in ... programming, board games, indie games, skulls, cats, argentine trains
-- 🌱 I’m currently learning ... JavaFX, haskell
+- 🌱 I’m currently learning ... haskell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... she/her
