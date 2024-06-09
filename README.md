@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I love cats, me gusta que los gatos tengan nombres de remseros
+- ⚡ Fun fact: ... me gusta que los gatos tengan nombres de remiseros
 
 <!---
 Vickyrai01/Vickyrai01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
