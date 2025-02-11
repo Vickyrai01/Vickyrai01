@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vickyrai01
 - 👀 I’m interested in ... APIs, board games, indie games, skulls, cats, argentine trains, '00s movies
-- 🌱 I’m currently learning ... haskell
+- 🌱 I’m currently learning ... haskell, javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... 🤷‍♀️
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... me gusta que los gatos tengan nombres de remiseros
 
