@@ -27,6 +27,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+##
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Vickyrai01)
+
 <!---
 Vickyrai01/Vickyrai01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
