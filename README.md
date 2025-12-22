@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @Vickyrai01
-- 👀 I’m interested in ... APIs, board games, indie games, skulls, cats, argentine trains, '00s movies
+- 👀 I’m interested in ... backend development, board games, indie games, skulls, cats, argentine trains, '00s movies
 - 🌱 I’m currently learning ... haskell, javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 🤷‍♀️
