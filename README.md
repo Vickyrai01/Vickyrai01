@@ -1,11 +1,20 @@
-## 👋 Hi, I’m @Vickyrai01
-- 👀 I’m interested in ... backend development, board games, indie games, skulls, cats, argentine trains, '00s movies
-- 🌱 I’m currently learning ... haskell, javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 🤷‍♀️
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... me gusta que los gatos tengan nombres de remiseros
+# Hi, I'm Vicky
 
+Backend-focused software developer. I'm currently improving my **JavaScript/Node.js** skills while building backend projects, and I also have a **solid foundation in Java + Spring Boot**.
+
+## Current focus (JavaScript / Node.js)
+- Building **REST APIs with Express** (CRUD, routing, validation, error handling)
+- Practicing backend fundamentals: HTTP, auth basics, pagination/filtering
+
+## Also confident with (Java / Spring Boot)
+- **Spring Boot** (Spring MVC, Spring Data JPA)
+- **SQL** and relational modeling (MySQL / SQL Server)
+- Building APIs with DTOs, validation, and layered architecture
+- Database migrations basics (Flyway) and reproducible local setup (Docker)
+
+## Contact
+- LinkedIn: [linkedin.com/in/victoria-raimondo](https://www.linkedin.com/in/victoria-raimondo/)
+- GitHub: https://github.com/Vickyrai01
 
 ## 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
