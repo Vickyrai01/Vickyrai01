@@ -50,7 +50,7 @@ Backend-focused software developer. I'm currently improving my **JavaScript/Node
 
 ## Contact
 - LinkedIn: [linkedin.com/in/victoria-raimondo](https://www.linkedin.com/in/victoria-raimondo/)
-- GitHub: https://github.com/Vickyrai01
+- Mail: raimondo.victoria.aldana@gmail.com
 
 ##
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Vickyrai01)
